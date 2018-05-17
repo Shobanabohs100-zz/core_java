@@ -1,4 +1,7 @@
 first commit
+<<<<<<< HEAD
 second
 third
 fourth
+=======
+>>>>>>> parent of 42d05ed... 2
